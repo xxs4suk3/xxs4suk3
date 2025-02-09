@@ -24,17 +24,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/wddslltd2r1djumft2p6fo83r">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wddslltd2r1djumft2p6fo83r&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/xxs4suk3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xxs4suk3" /></a></p><br><br>
 
 ###
 
